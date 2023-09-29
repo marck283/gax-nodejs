@@ -16,7 +16,7 @@
     "abort-controller": "^3.0.0",
     "duplexify": "^4.0.0",
     "google-auth-library": "^9.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.3.2",
     "object-hash": "^3.0.0",
     "proto3-json-serializer": "^2.0.0",
     "protobufjs": "7.2.5",
